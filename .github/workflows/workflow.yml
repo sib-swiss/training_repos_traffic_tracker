@@ -1,7 +1,7 @@
 on:
-#  schedule: 
-#    # runs once a day (for quick testing)
-#    - cron: "55 23 * * *"
+  schedule: 
+    # runs once a day (for quick testing)
+    - cron: "55 23 * * *"
 
 jobs:
   # This workflow contains a single job called "traffic"
