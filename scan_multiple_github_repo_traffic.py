@@ -170,6 +170,13 @@ for k in pre_data:
             data[k][date][repo] = value
 
 
+# ensuring folders containing the output files are created
+for k in data:
+    folder = k.rpartition("/")[0]
+    if folder != '' and folder != '.':
+        if not os.path.exists(folder):
+            os.makedirs(folder)
+
 ## writing data to files
 for k in data:
     with open( files[k],'w') as OUT:
