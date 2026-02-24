@@ -73,6 +73,46 @@ def get_metrics( repo , github_object , raise_error = True):
 
     return data
 
+def get_referrers_and_paths( repo , github_object , raise_error = True):
+    """ given 1 repository name and a github object, gather top referrers and popular paths.
+
+    returns the data in a dictionary with keys 'referrers' and 'paths'
+    each containing a list of dictionaries with the aggregated data over the last 14 days
+
+    If the raise_error argument is False, if the code fails to gather the repo data (likely because it lacks authorization) it returns empty lists
+    Otherwise the thrown error is raised
+    """
+    repo = github_object.get_repo( repo )
+    
+    data = {}
+    data['referrers'] = []
+    data['paths'] = []
+
+    try:
+        # Get top 10 referral sources (aggregated over last 14 days)
+        referrers = repo.get_top_referrers()
+        for r in referrers:
+            data['referrers'].append({
+                'referrer': r.referrer,
+                'count': r.count,
+                'uniques': r.uniques
+            })
+
+        # Get top 10 popular paths (aggregated over last 14 days)
+        paths = repo.get_top_paths()
+        for p in paths:
+            data['paths'].append({
+                'path': p.path,
+                'title': p.title,
+                'count': p.count,
+                'uniques': p.uniques
+            })
+    except Exception as e:
+        if raise_error:
+            raise e
+
+    return data
+
 def complement_data_structure( min_date,  max_date, repo_list, data = {} ):
     """creates or complement data structure to store 1 metric
     data is expected to be a dictionary
@@ -121,6 +161,10 @@ files = { 'view_count' : sys.argv[2],
           'clone_count' : sys.argv[4],
           'clone_unique' : sys.argv[5]}
 
+## files for referrers and paths (if provided)
+referrers_file = sys.argv[6] if len(sys.argv) > 6 else None
+paths_file = sys.argv[7] if len(sys.argv) > 7 else None
+
 ## reading the repo list
 repo_list = []
 with open(repo_list_file) as IN:
@@ -140,10 +184,20 @@ for k in files:
 
 ## gathering the data from github
 raw_data = {}
+referrers_data = {}
+paths_data = {}
 for r in repo_list:
     raw_data[r] = get_metrics( repo = r, 
                                github_object = g,
                                raise_error = False )
+    
+    # Get referrers and paths if output files are specified
+    if referrers_file or paths_file:
+        ref_path_data = get_referrers_and_paths( repo = r,
+                                                 github_object = g,
+                                                 raise_error = False )
+        referrers_data[r] = ref_path_data['referrers']
+        paths_data[r] = ref_path_data['paths']
 
 
 ## determining the time window of the data
@@ -181,4 +235,65 @@ for k in data:
 for k in data:
     with open( files[k],'w') as OUT:
         write_table( data[k] , repo_list , file = OUT )
+
+## writing referrers and paths data (snapshot with current timestamp)
+import json
+
+if referrers_file and referrers_data:
+    current_time = datetime.now()
+    
+    # Read existing data if file exists
+    existing_referrers = []
+    if os.path.exists(referrers_file):
+        with open(referrers_file, 'r') as IN:
+            try:
+                existing_referrers = json.load(IN)
+            except:
+                existing_referrers = []
+    
+    # Append new snapshot
+    snapshot = {
+        'timestamp': current_time.isoformat(),
+        'data': referrers_data
+    }
+    existing_referrers.append(snapshot)
+    
+    # Ensure folder exists
+    folder = referrers_file.rpartition("/")[0]
+    if folder != '' and folder != '.':
+        if not os.path.exists(folder):
+            os.makedirs(folder)
+    
+    # Write to file
+    with open(referrers_file, 'w') as OUT:
+        json.dump(existing_referrers, OUT, indent=2)
+
+if paths_file and paths_data:
+    current_time = datetime.now()
+    
+    # Read existing data if file exists
+    existing_paths = []
+    if os.path.exists(paths_file):
+        with open(paths_file, 'r') as IN:
+            try:
+                existing_paths = json.load(IN)
+            except:
+                existing_paths = []
+    
+    # Append new snapshot
+    snapshot = {
+        'timestamp': current_time.isoformat(),
+        'data': paths_data
+    }
+    existing_paths.append(snapshot)
+    
+    # Ensure folder exists
+    folder = paths_file.rpartition("/")[0]
+    if folder != '' and folder != '.':
+        if not os.path.exists(folder):
+            os.makedirs(folder)
+    
+    # Write to file
+    with open(paths_file, 'w') as OUT:
+        json.dump(existing_paths, OUT, indent=2)
 
