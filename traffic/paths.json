@@ -1,0 +1,667 @@
+[
+  {
+    "timestamp": "2026-02-24T10:25:34.108976",
+    "data": {
+      "sib-swiss/training_repos_traffic_tracker": [
+        {
+          "path": "/sib-swiss/training_repos_traffic_tracker/pull/1",
+          "title": "Add S3 sync and collects referrers + most used paths by GeertvanGeest \u00b7 Pull ...",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/training_repos_traffic_tracker",
+          "title": "GitHub - sib-swiss/training_repos_traffic_tracker: some code to track the tra...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/training_repos_traffic_tracker/pulls",
+          "title": "Pull requests \u00b7 sib-swiss/training_repos_traffic_tracker",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/training_repos_traffic_tracker/pull/1/changes",
+          "title": "Add S3 sync and collects referrers + most used paths by GeertvanGeest \u00b7 Pull ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/training_repos_traffic_tracker/tree/main/traffic",
+          "title": "training_repos_traffic_tracker/traffic at main \u00b7 sib-swiss/training_repos_tra...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/training_repos_traffic_tracker/blob/main/traffic/all_views_unique.csv",
+          "title": "GitHub - sib-swiss/training_repos_traffic_tracker: some code to track the tra...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/training_repos_traffic_tracker/issues",
+          "title": "Issues \u00b7 sib-swiss/training_repos_traffic_tracker \u00b7 GitHub",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/cancer-variants-training": [],
+      "sib-swiss/intro-machine-learning-training": [
+        {
+          "path": "/sib-swiss/intro-machine-learning-training",
+          "title": "GitHub - sib-swiss/intro-machine-learning-training",
+          "count": 38,
+          "uniques": 28
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/tree/main/python_notebooks",
+          "title": "intro-machine-learning-training/python_notebooks at main \u00b7 sib-swiss/intro-ma...",
+          "count": 17,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/tree/main",
+          "title": "sib-swiss/intro-machine-learning-training",
+          "count": 9,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/blob/main/python_notebooks/Chapter_0_python_warmup.ipynb",
+          "title": "intro-machine-learning-training/python_notebooks/Chapter_0_python_warmup.ipyn...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/blob/main/python_notebooks/Chapter_1_Exploratory_analysis.ipynb",
+          "title": "File not found \u00b7 GitHub",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/tree/main/data",
+          "title": "intro-machine-learning-training/data at main \u00b7 sib-swiss/intro-machine-learni...",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/blob/main/python_notebooks/Chapter_3_supervised_learning_and_ML_pipeline.ipynb",
+          "title": "intro-machine-learning-training/python_notebooks at main \u00b7 sib-swiss/intro-ma...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/tree/main/images",
+          "title": "intro-machine-learning-training/images at main \u00b7 sib-swiss/intro-machine-lear...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/blob/main/python_notebooks/Chapter_2_unsupervised_learning.ipynb",
+          "title": "intro-machine-learning-training/python_notebooks/Chapter_2_unsupervised_learn...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/blob/main/data/beetle.csv",
+          "title": "intro-machine-learning-training/data at main \u00b7 sib-swiss/intro-machine-learni...",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "sib-swiss/seq-spatial-transcriptomics-training": [],
+      "sib-swiss/training-cookbook": [],
+      "sib-swiss/pytorch-practical-training": [
+        {
+          "path": "/sib-swiss/pytorch-practical-training",
+          "title": "GitHub - sib-swiss/pytorch-practical-training: pratrical crash course on pyto...",
+          "count": 50,
+          "uniques": 21
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/tree/master",
+          "title": "sib-swiss/pytorch-practical-training: pratrical crash course on pytorch by re...",
+          "count": 6,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/blob/master/installation_instructions.md",
+          "title": "pytorch-practical-training/installation_instructions.md at master \u00b7 sib-swiss...",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/blob/master/01_my_first_pytorch_neural_network.ipynb",
+          "title": "pytorch-practical-training/01_my_first_pytorch_neural_network.ipynb at master...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/blob/master/slides/IntroductionDL2024.pdf",
+          "title": "pytorch-practical-training/slides/TechniquesDL2025.pptx at master \u00b7 sib-swiss...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/tree/master/slides",
+          "title": "pytorch-practical-training/slides at master \u00b7 sib-swiss/pytorch-practical-tra...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/commit/1c1de02a63965ae3a0dc39176850a87ff071a592",
+          "title": "fix on GRU.ipynb + fixed erroneous UCI HAR data \u00b7 sib-swiss/pytorch-practical...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/commit/5f8cb36bc87f0d9068a809b3fb5bea8cc0e72a99",
+          "title": "notebook check and adaptation for google colab \u00b7 sib-swiss/pytorch-practical-...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/blob/master/slides/SIB_DL_Intro_2025.pdf",
+          "title": "pytorch-practical-training/slides at master \u00b7 sib-swiss/pytorch-practical-tra...",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/blob/master/slides/TechniquesDL2025.pptx",
+          "title": "pytorch-practical-training/slides/SIB_DL_Intro_2025.pdf at master \u00b7 sib-swiss...",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/enrichment-analysis-training": [],
+      "sib-swiss/shell-scripting-training": [],
+      "sib-swiss/sequencing-data-analysis-training": [],
+      "sib-swiss/intermediate-machine-learning-training": [
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training",
+          "title": "sib-swiss/intermediate-machine-learning-training: Intermediate Machine Learni...",
+          "count": 16,
+          "uniques": 13
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/tree/master/notebooks",
+          "title": "intermediate-machine-learning-training/notebooks at master \u00b7 sib-swiss/interm...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/blob/master/notebooks/01_XGBoost.ipynb",
+          "title": "intermediate-machine-learning-training/notebooks at master \u00b7 sib-swiss/interm...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/blob/master/notebooks/03_model_explanation.ipynb",
+          "title": "intermediate-machine-learning-training/notebooks/03_model_explanation.ipynb a...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/tree/master/data",
+          "title": "intermediate-machine-learning-training/data at master \u00b7 sib-swiss/intermediat...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/blob/master/notebooks/solutions/solution_xgb_subsample.py",
+          "title": "intermediate-machine-learning-training/notebooks/solutions at master \u00b7 sib-sw...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/fork",
+          "title": "Fork sib-swiss/intermediate-machine-learning-training",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/tree/alternative_data",
+          "title": "GitHub - sib-swiss/intermediate-machine-learning-training at alternative_data",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/tree/alternative_data/notebooks",
+          "title": "intermediate-machine-learning-training/notebooks at alternative_data \u00b7 sib-sw...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/tree/master/notebooks/solutions",
+          "title": "GitHub - sib-swiss/intermediate-machine-learning-training: Intermediate Machi...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/intermediate-python-training": [
+        {
+          "path": "/sib-swiss/intermediate-python-training",
+          "title": "GitHub - sib-swiss/intermediate-python-training",
+          "count": 65,
+          "uniques": 46
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/tree/main/course3",
+          "title": "intermediate-python-training/course3 at main \u00b7 sib-swiss/intermediate-python-...",
+          "count": 41,
+          "uniques": 26
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/tree/main",
+          "title": "sib-swiss/intermediate-python-training",
+          "count": 17,
+          "uniques": 9
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/tree/main/course1",
+          "title": "intermediate-python-training/course1 at main \u00b7 sib-swiss/intermediate-python-...",
+          "count": 8,
+          "uniques": 8
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/blob/main/00_python_warmup.ipynb",
+          "title": "intermediate-python-training/00_python_warmup.ipynb at main \u00b7 sib-swiss/inter...",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/blob/main/course3/04_plotly_dash.ipynb",
+          "title": "intermediate-python-training/course3/04_plotly_dash.ipynb at main \u00b7 sib-swiss...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/blob/main/course3/01_plotly_basics.ipynb",
+          "title": "intermediate-python-training/course3 at main \u00b7 sib-swiss/intermediate-python-...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/tree/main/course3/images",
+          "title": "intermediate-python-training/course3 at main \u00b7 sib-swiss/intermediate-python-...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/tree/main/course3/slides",
+          "title": "intermediate-python-training/course3 at main \u00b7 sib-swiss/intermediate-python-...",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/blob/main/course1/01_pandas_basics.ipynb",
+          "title": "intermediate-python-training/course1 at main \u00b7 sib-swiss/intermediate-python-...",
+          "count": 3,
+          "uniques": 3
+        }
+      ],
+      "sib-swiss/single-cell-r-training": [],
+      "sib-swiss/first-steps-with-R-training": [
+        {
+          "path": "/sib-swiss/first-steps-with-R-training",
+          "title": "GitHub - sib-swiss/first-steps-with-R-training: repository of the 2-day cours...",
+          "count": 84,
+          "uniques": 63
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/blob/master/slides/First-steps-with-R_day1.pdf",
+          "title": "first-steps-with-R-training/slides/First-steps-with-R_day1.pdf at master \u00b7 si...",
+          "count": 16,
+          "uniques": 10
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/blob/master/assets/pdf/base-r-cheatsheet.pdf",
+          "title": "first-steps-with-R-training/assets/pdf/base-r-cheatsheet.pdf at master \u00b7 sib-...",
+          "count": 10,
+          "uniques": 8
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/tree/master/slides",
+          "title": "first-steps-with-R-training/slides at master \u00b7 sib-swiss/first-steps-with-R-t...",
+          "count": 8,
+          "uniques": 6
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/blob/master/slides/First-steps-with-R_day2_afternoon.pdf",
+          "title": "first-steps-with-R-training/slides/First-steps-with-R_day1.pdf at master \u00b7 si...",
+          "count": 8,
+          "uniques": 5
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/blob/master/slides/First-steps-with-R_day2_morning.pdf",
+          "title": "first-steps-with-R-training/slides/First-steps-with-R_day2_afternoon.pdf at m...",
+          "count": 8,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/tree/master/code",
+          "title": "first-steps-with-R-training/code at master \u00b7 sib-swiss/first-steps-with-R-tra...",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/tree/master/assets/pdf",
+          "title": "first-steps-with-R-training/assets at master \u00b7 sib-swiss/first-steps-with-R-t...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/tree/master/course_datasets",
+          "title": "GitHub - sib-swiss/first-steps-with-R-training: repository of the 2-day cours...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/blob/master/slides/First-steps-with-R_practicals_extra.pdf",
+          "title": "first-steps-with-R-training/slides/First-steps-with-R_day2_morning.pdf at mas...",
+          "count": 4,
+          "uniques": 2
+        }
+      ],
+      "sib-swiss/first-steps-with-python-training": [
+        {
+          "path": "/sib-swiss/first-steps-with-python-training",
+          "title": "GitHub - sib-swiss/first-steps-with-python-training: repository of the 3-day ...",
+          "count": 54,
+          "uniques": 36
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/blob/main/notebooks/01_python_basics_simple_types.ipynb",
+          "title": "first-steps-with-python-training/notebooks/01_python_basics_simple_types.ipyn...",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/blob/main/notebooks/00_jupyter_setup.ipynb",
+          "title": "first-steps-with-python-training/notebooks at main \u00b7 sib-swiss/first-steps-wi...",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/tree/main/notebooks",
+          "title": "first-steps-with-python-training/notebooks at main \u00b7 sib-swiss/first-steps-wi...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/blob/main/notebooks/01_python_basics_simple_types_exercises.ipynb",
+          "title": "first-steps-with-python-training/notebooks/01_python_basics_simple_types_exer...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/blob/main/notebooks/02_python_basics_container_types.ipynb",
+          "title": "first-steps-with-python-training/notebooks/02_python_basics_container_types.i...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/blob/main/slides/Introductory_slides_first_steps_with_python.pdf",
+          "title": "first-steps-with-python-training/slides at main \u00b7 sib-swiss/first-steps-with-...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/tree/main/exam",
+          "title": "first-steps-with-python-training/exam at main \u00b7 sib-swiss/first-steps-with-py...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/tree/main/slides",
+          "title": "first-steps-with-python-training/slides at main \u00b7 sib-swiss/first-steps-with-...",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/blob/main/setting_up_your_environment.md",
+          "title": "first-steps-with-python-training/setting_up_your_environment.md at main \u00b7 sib...",
+          "count": 3,
+          "uniques": 2
+        }
+      ],
+      "sib-swiss/git-training": [],
+      "sib-swiss/immunology-in-bioinformatics-training": [],
+      "sib-swiss/atac-seq-training": [],
+      "sib-swiss/containers-snakemake-training": [],
+      "sib-swiss/containers-introduction-training": [],
+      "sib-swiss/llm-biodata-training": [],
+      "sib-swiss/statistics-and-machine-learning-training": [
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training",
+          "title": "GitHub - sib-swiss/statistics-and-machine-learning-training",
+          "count": 45,
+          "uniques": 31
+        },
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training/tree/main/data",
+          "title": "statistics-and-machine-learning-training/data at main \u00b7 sib-swiss/statistics-...",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training/blob/main/data/potato_data.phenotypic.csv",
+          "title": "statistics-and-machine-learning-training/data at main \u00b7 sib-swiss/statistics-...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training/blob/main/solutions/solution_01_01.py",
+          "title": "statistics-and-machine-learning-training/solutions/solution_01_02.py at main ...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training/blob/main/solutions/solution_01_02.py",
+          "title": "statistics-and-machine-learning-training/solutions/solution_01_01.py at main ...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training/tree/main/solutions",
+          "title": "statistics-and-machine-learning-training/solutions at main \u00b7 sib-swiss/statis...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training/blob/main/01_regression_Least_Square.ipynb",
+          "title": "statistics-and-machine-learning-training/01_regression_Least_Square.ipynb at ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training/blob/main/03_Machine_Learning.ipynb",
+          "title": "statistics-and-machine-learning-training/03_Machine_Learning.ipynb at main \u00b7 ...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training/tree/main",
+          "title": "sib-swiss/statistics-and-machine-learning-training",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training/blob/main/00_python_warmup.ipynb",
+          "title": "statistics-and-machine-learning-training/00_python_warmup.ipynb at main \u00b7 sib...",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/intro-bayesian-statistics-training": [
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training",
+          "title": "GitHub - sib-swiss/intro-bayesian-statistics-training: SIB course on bayesian...",
+          "count": 21,
+          "uniques": 19
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/tree/main",
+          "title": "GitHub - sib-swiss/intro-bayesian-statistics-training: SIB course on bayesian...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/tree/main/lectures",
+          "title": "GitHub - sib-swiss/intro-bayesian-statistics-training: SIB course on bayesian...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/tree/main/lectures/brm_models_lectures",
+          "title": "intro-bayesian-statistics-training/lectures at main \u00b7 sib-swiss/intro-bayesia...",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/tree/main/website",
+          "title": "intro-bayesian-statistics-training/website at main \u00b7 sib-swiss/intro-bayesian...",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/tree/main/exercises",
+          "title": "intro-bayesian-statistics-training/exercises at main \u00b7 sib-swiss/intro-bayesi...",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/blob/main/README.md",
+          "title": "intro-bayesian-statistics-training/README.md at main \u00b7 sib-swiss/intro-bayesi...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/blob/main/exercises/brm_models_exercises/t_test_ex5.Rds",
+          "title": "intro-bayesian-statistics-training/exercises/brm_models_exercises/logistic_ex...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/blob/main/exercises/ibswr_exercises_1.pdf",
+          "title": "intro-bayesian-statistics-training/exercises at main \u00b7 sib-swiss/intro-bayesi...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/blob/main/lectures/brm_models_lectures/t_test_v.Rds",
+          "title": "intro-bayesian-statistics-training/lectures/brm_models_lectures at main \u00b7 sib...",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/reproducible-analysis-training": [
+        {
+          "path": "/sib-swiss/reproducible-analysis-training",
+          "title": "GitHub - sib-swiss/reproducible-analysis-training: SIB course on FAIR analysi...",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "sib-swiss/RNAseq-introduction-training": [
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training",
+          "title": "GitHub - sib-swiss/RNAseq-introduction-training: Webpage of the \"Introduction...",
+          "count": 9,
+          "uniques": 7
+        },
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training/blob/main/docs/days/DE.md",
+          "title": "RNAseq-introduction-training/docs/days/DE.md at main \u00b7 sib-swiss/RNAseq-intro...",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training/fork",
+          "title": "Fork sib-swiss/RNAseq-introduction-training",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/single-cell-python-training": [],
+      "sib-swiss/spatial-transcriptomics-training": [],
+      "sib-swiss/multiomics-data-analysis-and-integration-training": [],
+      "sib-swiss/unix-first-steps-training": [],
+      "sib-swiss/federated-learning-training": [],
+      "sib-swiss/single-cell-training": [],
+      "sib-swiss/glittr": [],
+      "sib-swiss/biology-informed-multiomics-training": [],
+      "sib-swiss/introduction-to-statistics-with-python-training": [
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training",
+          "title": "GitHub - sib-swiss/introduction-to-statistics-with-python-training: material ...",
+          "count": 28,
+          "uniques": 20
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/blob/master/01_data_manipulation_and_representation.ipynb",
+          "title": "introduction-to-statistics-with-python-training/01_data_manipulation_and_repr...",
+          "count": 16,
+          "uniques": 9
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/blob/master/02_distribution_and_statistical_tests.ipynb",
+          "title": "introduction-to-statistics-with-python-training/02_distribution_and_statistic...",
+          "count": 11,
+          "uniques": 7
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/blob/master/04_correlation_and_regression.ipynb",
+          "title": "introduction-to-statistics-with-python-training/04_correlation_and_regression...",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/tree/master/data",
+          "title": "introduction-to-statistics-with-python-training/data at master \u00b7 sib-swiss/in...",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/tree/c9f572437bf82724ca4bc7e8e904a1f542c1854c",
+          "title": "GitHub - sib-swiss/introduction-to-statistics-with-python-training at c9f5724...",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/tree/master",
+          "title": "sib-swiss/introduction-to-statistics-with-python-training: material for the \"...",
+          "count": 5,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/blob/master/03_distribution_and_statistical_tests_continued.ipynb",
+          "title": "introduction-to-statistics-with-python-training/02_distribution_and_statistic...",
+          "count": 4,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/blob/master/images/xkcd882.png",
+          "title": "introduction-to-statistics-with-python-training/images/xkcd882.png at master ...",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/blob/c9f572437bf82724ca4bc7e8e904a1f542c1854c/01_data_manipulation_and_representation.ipynb",
+          "title": "introduction-to-statistics-with-python-training/01_data_manipulation_and_repr...",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "sib-swiss/metagenomics-data-analysis-training": [],
+      "sib-swiss/NGS-introduction-training": [],
+      "sib-swiss/NGS-longreads-training": [],
+      "sib-swiss/fair-training-guide": [],
+      "sib-swiss/ena-seqdata-training": [],
+      "sib-swiss/NGS-variants-training": [],
+      "sib-swiss/sparql-training": [],
+      "sib-swiss/advanced-r-training": [],
+      "sib-swiss/gh-pages-training": []
+    }
+  }
+]
