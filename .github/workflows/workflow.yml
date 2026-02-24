@@ -1,4 +1,8 @@
 on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule: 
     # runs once a day (for quick testing)
     - cron: "55 23 * * *"
