@@ -18139,5 +18139,259 @@
       "sib-swiss/advanced-r-training": [],
       "sib-swiss/gh-pages-training": []
     }
+  },
+  {
+    "timestamp": "2026-04-30T01:26:30.937790",
+    "data": {
+      "sib-swiss/training_repos_traffic_tracker": [
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/cancer-variants-training": [],
+      "sib-swiss/intro-machine-learning-training": [
+        {
+          "referrer": "sib.swiss",
+          "count": 61,
+          "uniques": 26
+        },
+        {
+          "referrer": "github.com",
+          "count": 8,
+          "uniques": 5
+        },
+        {
+          "referrer": "glittr.org",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "now.ntu.ac.uk",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "zenodo.org",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/seq-spatial-transcriptomics-training": [],
+      "sib-swiss/training-cookbook": [],
+      "sib-swiss/pytorch-practical-training": [
+        {
+          "referrer": "sib.swiss",
+          "count": 11,
+          "uniques": 8
+        },
+        {
+          "referrer": "Google",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "referrer": "glittr.org",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/enrichment-analysis-training": [],
+      "sib-swiss/shell-scripting-training": [],
+      "sib-swiss/sequencing-data-analysis-training": [],
+      "sib-swiss/intermediate-machine-learning-training": [],
+      "sib-swiss/intermediate-python-training": [
+        {
+          "referrer": "github.com",
+          "count": 34,
+          "uniques": 8
+        },
+        {
+          "referrer": "scanmail.trustwave.com",
+          "count": 29,
+          "uniques": 5
+        },
+        {
+          "referrer": "sib.swiss",
+          "count": 26,
+          "uniques": 12
+        },
+        {
+          "referrer": "notebooks.githubusercontent.com",
+          "count": 14,
+          "uniques": 3
+        },
+        {
+          "referrer": "chc-excel.officeapps.live.com",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/single-cell-r-training": [],
+      "sib-swiss/first-steps-with-R-training": [
+        {
+          "referrer": "sib.swiss",
+          "count": 140,
+          "uniques": 29
+        },
+        {
+          "referrer": "reddit.com",
+          "count": 10,
+          "uniques": 3
+        },
+        {
+          "referrer": "Google",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "referrer": "moodle.epfl.ch",
+          "count": 3,
+          "uniques": 2
+        }
+      ],
+      "sib-swiss/first-steps-with-python-training": [
+        {
+          "referrer": "sib.swiss",
+          "count": 37,
+          "uniques": 10
+        },
+        {
+          "referrer": "github.com",
+          "count": 28,
+          "uniques": 9
+        },
+        {
+          "referrer": "Google",
+          "count": 12,
+          "uniques": 2
+        },
+        {
+          "referrer": "notebooks.githubusercontent.com",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "referrer": "vorlesungsverzeichnis.unibas.ch",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/git-training": [],
+      "sib-swiss/immunology-in-bioinformatics-training": [],
+      "sib-swiss/atac-seq-training": [],
+      "sib-swiss/containers-snakemake-training": [],
+      "sib-swiss/containers-introduction-training": [],
+      "sib-swiss/llm-biodata-training": [],
+      "sib-swiss/statistics-and-machine-learning-training": [
+        {
+          "referrer": "sib.swiss",
+          "count": 29,
+          "uniques": 8
+        },
+        {
+          "referrer": "Baidu",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "referrer": "Google",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/intro-bayesian-statistics-training": [
+        {
+          "referrer": "sib-swiss.github.io",
+          "count": 7,
+          "uniques": 2
+        },
+        {
+          "referrer": "sib.swiss",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "referrer": "github.com",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/reproducible-analysis-training": [
+        {
+          "referrer": "github.com",
+          "count": 16,
+          "uniques": 2
+        },
+        {
+          "referrer": "Google",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/RNAseq-introduction-training": [
+        {
+          "referrer": "sib-swiss.github.io",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "referrer": "sib.swiss",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/single-cell-python-training": [],
+      "sib-swiss/spatial-transcriptomics-training": [],
+      "sib-swiss/multiomics-data-analysis-and-integration-training": [],
+      "sib-swiss/unix-first-steps-training": [],
+      "sib-swiss/federated-learning-training": [],
+      "sib-swiss/single-cell-training": [],
+      "sib-swiss/glittr": [],
+      "sib-swiss/biology-informed-multiomics-training": [],
+      "sib-swiss/introduction-to-statistics-with-python-training": [
+        {
+          "referrer": "Google",
+          "count": 27,
+          "uniques": 7
+        },
+        {
+          "referrer": "notebooks.githubusercontent.com",
+          "count": 11,
+          "uniques": 4
+        },
+        {
+          "referrer": "sib.swiss",
+          "count": 8,
+          "uniques": 3
+        },
+        {
+          "referrer": "github.com",
+          "count": 6,
+          "uniques": 3
+        }
+      ],
+      "sib-swiss/metagenomics-data-analysis-training": [],
+      "sib-swiss/NGS-introduction-training": [],
+      "sib-swiss/NGS-longreads-training": [],
+      "sib-swiss/fair-training-guide": [],
+      "sib-swiss/ena-seqdata-training": [],
+      "sib-swiss/NGS-variants-training": [
+        {
+          "referrer": "github.com",
+          "count": 10,
+          "uniques": 3
+        },
+        {
+          "referrer": "sib-swiss.github.io",
+          "count": 7,
+          "uniques": 4
+        }
+      ],
+      "sib-swiss/sparql-training": [],
+      "sib-swiss/advanced-r-training": [],
+      "sib-swiss/gh-pages-training": []
+    }
   }
 ]
