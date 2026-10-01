@@ -133834,5 +133834,701 @@
       "sib-swiss/advanced-r-training": [],
       "sib-swiss/gh-pages-training": []
     }
+  },
+  {
+    "timestamp": "2026-10-01T02:32:11.650628",
+    "data": {
+      "sib-swiss/training_repos_traffic_tracker": [
+        {
+          "path": "/sib-swiss/training_repos_traffic_tracker/blob/main/README.md",
+          "title": "/blob/main/README.md",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/cancer-variants-training": [],
+      "sib-swiss/intro-machine-learning-training": [
+        {
+          "path": "/sib-swiss/intro-machine-learning-training",
+          "title": "Overview",
+          "count": 60,
+          "uniques": 44
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/blob/main/env_setup.md",
+          "title": "/blob/main/env_setup.md",
+          "count": 18,
+          "uniques": 13
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/tree/main/slides",
+          "title": "/tree/main/slides",
+          "count": 9,
+          "uniques": 7
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/blob/main/python_notebooks/Chapter_2_unsupervised_learning.ipynb",
+          "title": "/blob/main/python_notebooks/Chapter_2_unsupervised_learning.ipynb",
+          "count": 8,
+          "uniques": 7
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/blob/main/python_notebooks/Chapter_0_python_warmup.ipynb",
+          "title": "/blob/main/python_notebooks/Chapter_0_python_warmup.ipynb",
+          "count": 7,
+          "uniques": 5
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/tree/main",
+          "title": "/tree/main",
+          "count": 7,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/blob/main/python_notebooks/Chapter_1_Exploratory_analysis.ipynb",
+          "title": "/blob/main/python_notebooks/Chapter_1_Exploratory_analysis.ipynb",
+          "count": 5,
+          "uniques": 5
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/blob/main/python_notebooks/Chapter_3_supervised_learning_and_ML_pipeline.ipynb",
+          "title": "/blob/main/python_notebooks/Chapter_3_supervised_learning_and_ML_pipeline.ipynb",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/blob/main/slides/IntroML_SIB_1022.pptx",
+          "title": "/blob/main/slides/IntroML_SIB_1022.pptx",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/intro-machine-learning-training/tree/main/python_notebooks",
+          "title": "/tree/main/python_notebooks",
+          "count": 4,
+          "uniques": 3
+        }
+      ],
+      "sib-swiss/seq-spatial-transcriptomics-training": [],
+      "sib-swiss/training-cookbook": [],
+      "sib-swiss/pytorch-practical-training": [
+        {
+          "path": "/sib-swiss/pytorch-practical-training/blob/master/04_chest_Xray_CNN.ipynb",
+          "title": "/blob/master/04_chest_Xray_CNN.ipynb",
+          "count": 39,
+          "uniques": 16
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training",
+          "title": "Overview",
+          "count": 30,
+          "uniques": 26
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/blob/master/01_my_first_pytorch_neural_network.ipynb",
+          "title": "/blob/master/01_my_first_pytorch_neural_network.ipynb",
+          "count": 8,
+          "uniques": 7
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/tree/master/solutions",
+          "title": "/tree/master/solutions",
+          "count": 5,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/tree/master",
+          "title": "/tree/master",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/tree/master/data",
+          "title": "/tree/master/data",
+          "count": 4,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/blob/master/README.md",
+          "title": "/blob/master/README.md",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/blob/master/05_chest_Xray_Transfer_Learning.ipynb",
+          "title": "/blob/master/05_chest_Xray_Transfer_Learning.ipynb",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/blob/master/data/chest_xray_224/test/NORMAL/NORMAL_231.jpeg",
+          "title": "/blob/master/data/chest_xray_224/test/NORMAL/NORMAL_231.jpeg",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/pytorch-practical-training/tree/master/data/chest_xray_224",
+          "title": "/tree/master/data/chest_xray_224",
+          "count": 3,
+          "uniques": 2
+        }
+      ],
+      "sib-swiss/enrichment-analysis-training": [],
+      "sib-swiss/shell-scripting-training": [],
+      "sib-swiss/sequencing-data-analysis-training": [],
+      "sib-swiss/intermediate-machine-learning-training": [
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training",
+          "title": "Overview",
+          "count": 55,
+          "uniques": 44
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/tree/master/slides",
+          "title": "/tree/master/slides",
+          "count": 8,
+          "uniques": 7
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/blob/master/slides/ML2_XGB_Hyperopt_backup.pdf",
+          "title": "/blob/master/slides/ML2_XGB_Hyperopt_backup.pdf",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/blob/master/notebooks/01_XGBoost.ipynb",
+          "title": "/blob/master/notebooks/01_XGBoost.ipynb",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/blob/master/notebooks/03_model_explanation.ipynb",
+          "title": "/blob/master/notebooks/03_model_explanation.ipynb",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/blob/master/README.md",
+          "title": "/blob/master/README.md",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/blob/master/notebooks/02_hyperopt.ipynb",
+          "title": "/blob/master/notebooks/02_hyperopt.ipynb",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/blob/master/notebooks/project_Xsurv.ipynb",
+          "title": "/blob/master/notebooks/project_Xsurv.ipynb",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/blob/master/slides/SHAP.pptx",
+          "title": "/blob/master/slides/SHAP.pptx",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-machine-learning-training/issues",
+          "title": "/issues",
+          "count": 2,
+          "uniques": 2
+        }
+      ],
+      "sib-swiss/intermediate-python-training": [
+        {
+          "path": "/sib-swiss/intermediate-python-training",
+          "title": "Overview",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/blob/main/LICENSE.md",
+          "title": "/blob/main/LICENSE.md",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/blob/main/README.md",
+          "title": "/blob/main/README.md",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/blob/main/course1/requirements.txt",
+          "title": "/blob/main/course1/requirements.txt",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/blob/main/course2/requirements.txt",
+          "title": "/blob/main/course2/requirements.txt",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/releases/tag/2026.04",
+          "title": "/releases/tag/2026.04",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/tree/main/course3",
+          "title": "/tree/main/course3",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/blob/main/course1/01_pandas_basics.ipynb",
+          "title": "/blob/main/course1/01_pandas_basics.ipynb",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/blob/main/requirements.txt",
+          "title": "/blob/main/requirements.txt",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intermediate-python-training/blob/main/schedule.md",
+          "title": "/blob/main/schedule.md",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/single-cell-r-training": [],
+      "sib-swiss/first-steps-with-R-training": [
+        {
+          "path": "/sib-swiss/first-steps-with-R-training",
+          "title": "Overview",
+          "count": 81,
+          "uniques": 58
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/blob/master/slides/First-steps-with-R_day1.pdf",
+          "title": "/blob/master/slides/First-steps-with-R_day1.pdf",
+          "count": 21,
+          "uniques": 18
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/tree/master/slides",
+          "title": "/tree/master/slides",
+          "count": 9,
+          "uniques": 9
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/blob/master/slides/First-steps-with-R_day2_afternoon.pdf",
+          "title": "/blob/master/slides/First-steps-with-R_day2_afternoon.pdf",
+          "count": 8,
+          "uniques": 8
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/blob/master/slides/First-steps-with-R_day2_morning.pdf",
+          "title": "/blob/master/slides/First-steps-with-R_day2_morning.pdf",
+          "count": 8,
+          "uniques": 8
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/blob/master/assets/pdf/base-r-cheatsheet.pdf",
+          "title": "/blob/master/assets/pdf/base-r-cheatsheet.pdf",
+          "count": 7,
+          "uniques": 6
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/tree/master/assets",
+          "title": "/tree/master/assets",
+          "count": 6,
+          "uniques": 5
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/blob/master/README.md",
+          "title": "/blob/master/README.md",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/blob/master/slides/exam_R.pdf",
+          "title": "/blob/master/slides/exam_R.pdf",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-R-training/tree/master/assets/pptx",
+          "title": "/tree/master/assets/pptx",
+          "count": 4,
+          "uniques": 3
+        }
+      ],
+      "sib-swiss/first-steps-with-python-training": [
+        {
+          "path": "/sib-swiss/first-steps-with-python-training",
+          "title": "Overview",
+          "count": 146,
+          "uniques": 84
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/blob/main/setting_up_your_environment.md",
+          "title": "/blob/main/setting_up_your_environment.md",
+          "count": 114,
+          "uniques": 64
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/blob/main/requirements.txt",
+          "title": "/blob/main/requirements.txt",
+          "count": 21,
+          "uniques": 9
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/tree/main/notebooks",
+          "title": "/tree/main/notebooks",
+          "count": 19,
+          "uniques": 17
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/blob/main/schedule_and_structure.md",
+          "title": "/blob/main/schedule_and_structure.md",
+          "count": 19,
+          "uniques": 12
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/tree/main",
+          "title": "/tree/main",
+          "count": 16,
+          "uniques": 10
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/blob/main/notebooks/00_jupyter_setup.ipynb",
+          "title": "/blob/main/notebooks/00_jupyter_setup.ipynb",
+          "count": 16,
+          "uniques": 7
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/tree/main/slides",
+          "title": "/tree/main/slides",
+          "count": 15,
+          "uniques": 14
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/tree/main/exam",
+          "title": "/tree/main/exam",
+          "count": 12,
+          "uniques": 10
+        },
+        {
+          "path": "/sib-swiss/first-steps-with-python-training/blob/main/slides/Introductory_slides_first_steps_with_python.pdf",
+          "title": "/blob/main/slides/Introductory_slides_first_steps_with_python.pdf",
+          "count": 10,
+          "uniques": 10
+        }
+      ],
+      "sib-swiss/git-training": [],
+      "sib-swiss/immunology-in-bioinformatics-training": [],
+      "sib-swiss/atac-seq-training": [],
+      "sib-swiss/containers-snakemake-training": [],
+      "sib-swiss/containers-introduction-training": [],
+      "sib-swiss/llm-biodata-training": [],
+      "sib-swiss/statistics-and-machine-learning-training": [
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training",
+          "title": "Overview",
+          "count": 12,
+          "uniques": 9
+        },
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training/blob/main/SIB_MLcourse.pdf",
+          "title": "/blob/main/SIB_MLcourse.pdf",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training/commit/abf7806d3e021a534fe58f81e0dd061385de49f5",
+          "title": "/commit/abf7806d3e021a534fe58f81e0dd061385de49f5",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/statistics-and-machine-learning-training/tree/main/exam",
+          "title": "/tree/main/exam",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/intro-bayesian-statistics-training": [
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/tree/main/lectures",
+          "title": "/tree/main/lectures",
+          "count": 9,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training",
+          "title": "Overview",
+          "count": 8,
+          "uniques": 6
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/tree/main",
+          "title": "/tree/main",
+          "count": 6,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/tree/main/lectures/brm_models_lectures",
+          "title": "/tree/main/lectures/brm_models_lectures",
+          "count": 5,
+          "uniques": 4
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/blob/main/CONTRIBUTING.md",
+          "title": "/blob/main/CONTRIBUTING.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/blob/main/lectures/brm_models_lectures/brm_logist_prem.Rds",
+          "title": "/blob/main/lectures/brm_models_lectures/brm_logist_prem.Rds",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/blob/main/lectures/ibswr_0.Rmd",
+          "title": "/blob/main/lectures/ibswr_0.Rmd",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/blob/main/lectures/ibswr_2.Rmd",
+          "title": "/blob/main/lectures/ibswr_2.Rmd",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/tree/main/exercises",
+          "title": "/tree/main/exercises",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/intro-bayesian-statistics-training/tree/main/rendered_lectures",
+          "title": "/tree/main/rendered_lectures",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/reproducible-analysis-training": [
+        {
+          "path": "/sib-swiss/reproducible-analysis-training",
+          "title": "Overview",
+          "count": 2,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/RNAseq-introduction-training": [
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training",
+          "title": "Overview",
+          "count": 18,
+          "uniques": 7
+        },
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training/tree/gh-pages",
+          "title": "/tree/gh-pages",
+          "count": 9,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training/tree/main",
+          "title": "/tree/main",
+          "count": 3,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training/actions/runs/35976724661/job/107558858856",
+          "title": "/actions/runs/35976724661/job/107558858856",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training/commits/main",
+          "title": "/commits/main",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training/actions/runs/35976724661/job/107559183172",
+          "title": "/actions/runs/35976724661/job/107559183172",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training/blob/gh-pages/versions.json",
+          "title": "/blob/gh-pages/versions.json",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training/blob/main/docs/days/quality_control.md",
+          "title": "/blob/main/docs/days/quality_control.md",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training/blob/main/notes_for_next_course.txt",
+          "title": "/blob/main/notes_for_next_course.txt",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/RNAseq-introduction-training/issues",
+          "title": "/issues",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/single-cell-python-training": [],
+      "sib-swiss/spatial-transcriptomics-training": [],
+      "sib-swiss/multiomics-data-analysis-and-integration-training": [],
+      "sib-swiss/unix-first-steps-training": [],
+      "sib-swiss/federated-learning-training": [],
+      "sib-swiss/single-cell-training": [],
+      "sib-swiss/glittr": [],
+      "sib-swiss/biology-informed-multiomics-training": [],
+      "sib-swiss/introduction-to-statistics-with-python-training": [
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training",
+          "title": "Overview",
+          "count": 7,
+          "uniques": 7
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/blob/master/solutions/solution_01_01.py",
+          "title": "/blob/master/solutions/solution_01_01.py",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/tree/master/solutions",
+          "title": "/tree/master/solutions",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/blob/master/02_distribution_and_statistical_tests.ipynb",
+          "title": "/blob/master/02_distribution_and_statistical_tests.ipynb",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/blob/master/01_data_manipulation_and_representation.ipynb",
+          "title": "/blob/master/01_data_manipulation_and_representation.ipynb",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/blob/master/solutions/.ipynb_checkpoints/solution_01_01-checkpoint.py",
+          "title": "/blob/master/solutions/.ipynb_checkpoints/solution_01_01-checkpoint.py",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/commit/fdbd090ef8f76752abcea98fa31a3f33030f983c",
+          "title": "/commit/fdbd090ef8f76752abcea98fa31a3f33030f983c",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/tree/master",
+          "title": "/tree/master",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/tree/master/data",
+          "title": "/tree/master/data",
+          "count": 1,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/introduction-to-statistics-with-python-training/tree/master/images",
+          "title": "/tree/master/images",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/metagenomics-data-analysis-training": [],
+      "sib-swiss/NGS-introduction-training": [],
+      "sib-swiss/NGS-longreads-training": [],
+      "sib-swiss/fair-training-guide": [],
+      "sib-swiss/ena-seqdata-training": [],
+      "sib-swiss/NGS-variants-training": [
+        {
+          "path": "/sib-swiss/NGS-variants-training",
+          "title": "Overview",
+          "count": 15,
+          "uniques": 7
+        },
+        {
+          "path": "/sib-swiss/NGS-variants-training/releases",
+          "title": "/releases",
+          "count": 5,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/NGS-variants-training/blob/main/.zenodo.json",
+          "title": "/blob/main/.zenodo.json",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/NGS-variants-training/tree/main",
+          "title": "/tree/main",
+          "count": 4,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/NGS-variants-training/blob/main/README.md",
+          "title": "/blob/main/README.md",
+          "count": 3,
+          "uniques": 3
+        },
+        {
+          "path": "/sib-swiss/NGS-variants-training/edit/main/.zenodo.json",
+          "title": "/edit/main/.zenodo.json",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/NGS-variants-training/releases/new",
+          "title": "/releases/new",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/NGS-variants-training/releases/tag/v2026.6.1",
+          "title": "/releases/tag/v2026.6.1",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/NGS-variants-training/tree/gh-pages",
+          "title": "/tree/gh-pages",
+          "count": 2,
+          "uniques": 1
+        },
+        {
+          "path": "/sib-swiss/NGS-variants-training/actions/runs/27936045815/job/82657855078",
+          "title": "/actions/runs/27936045815/job/82657855078",
+          "count": 1,
+          "uniques": 1
+        }
+      ],
+      "sib-swiss/sparql-training": [],
+      "sib-swiss/advanced-r-training": [],
+      "sib-swiss/gh-pages-training": []
+    }
   }
 ]
