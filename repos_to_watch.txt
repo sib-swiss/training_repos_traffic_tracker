@@ -40,3 +40,11 @@ sib-swiss/NGS-variants-training
 sib-swiss/sparql-training
 sib-swiss/advanced-r-training
 sib-swiss/gh-pages-training
+sib-swiss/intro-machine-learning-with-R-training
+sib-swiss/nextflow-training
+sib-swiss/bio-llm-training
+sib-swiss/feature-selection-training
+sib-swiss/alphafold-training
+sib-swiss/intro-spatial-transcriptomics-training
+sib-swiss/multiomics-biological-integration-training
+sib-swiss/images-training
